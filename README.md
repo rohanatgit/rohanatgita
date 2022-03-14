@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 I am Rohan Varshney, currently pursuing my B.Tech degree in Computer Science from GLA UNIVERSITY MATHURA.I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:singhvishal0847@gmail.com)](mailto:singhvishal0847@gmail.com)
-<!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-jadon-280b5721a/)](https://www.linkedin.com/in/varun-jadon-280b5721a/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:varshneyrohan344@gmail.com)](mailto:varshneyrohan344@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-varshney-a468a6234/)](https://www.linkedin.com/in/rohan-varshney-a468a6234/)
+<!--
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/varunjadon/)
 -->
 
