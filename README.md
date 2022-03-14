@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Hi, I am Rohan! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+##Hi, I am Rohan! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <p align="center">
   
-  <a href="https://github.com/rohanatgita/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+ --> <a href="https://github.com/rohanatgita/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Young-Hustler%20from%20INDIA!;Inexorable;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanatgita&label=Profile%20views&color=0e75b6&style=flat" alt="Rohan Varshney" /> 
